@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "877206198583",
+    "project_id": "smartfarmx-221",
+    "storage_bucket": "smartfarmx-221.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877206198583:android:37a29cd56e705a6f53a2b2",
+        "android_client_info": {
+          "package_name": "com.example.smartfarmx"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDB4PYqDdrnWhuN0fsghstldzSwaogAysA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
